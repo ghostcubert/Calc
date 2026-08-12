@@ -1,2 +1,2 @@
 # Calc
-Made out of C++
+Calc (means calculator) Made out of C++
